@@ -1,2 +1,2 @@
 # google-keep-clone
-A clone of google keep using React for the front-end and Nodejs and Express for the back-end.
+A clone of google keep using React for the front-end and a serverless back-end with MongoDB Realm.
